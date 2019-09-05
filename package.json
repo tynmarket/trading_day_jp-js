@@ -1,0 +1,17 @@
+{
+  "name": "trading_day_jp-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tynmarket/trading_day_jp-js.git",
+  "author": "Takehiko Shinkura <tynmarket@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@holiday-jp/holiday_jp": "^2.2.2"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
